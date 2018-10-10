@@ -1,0 +1,5 @@
+"0","#suppressPackageStartupMessages stops unecessary messages from popping up"
+"0","suppressPackageStartupMessages(library(tidyverse))"
+"2","Error in `?`(join, suppressPackageStartupMessages(library(tidyverse))) : 
+  no documentation of type ‘join’ and topic ‘suppressPackageStartupMessages(library(tidyverse))’ (or error in processing help)
+"

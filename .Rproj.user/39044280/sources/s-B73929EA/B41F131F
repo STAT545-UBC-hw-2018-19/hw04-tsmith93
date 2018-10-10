@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539140926104.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B41F131F",
+    "lastKnownWriteTime" : -5263429425646534650,
+    "last_content_update" : 1539140926104,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "38C429C5",
+        "caption" : "fjlv",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=fjlv&cache_key=38C429C5",
+        "displayedObservations" : "8",
+        "environment" : "",
+        "object" : "fjlv",
+        "preview" : "0",
+        "totalObservations" : "8",
+        "variables" : "5"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,4 @@
+"0","labels <- read_csv(labels, skip = 1)
+kable(vocalists)
+"
+"0","kable(labels)"

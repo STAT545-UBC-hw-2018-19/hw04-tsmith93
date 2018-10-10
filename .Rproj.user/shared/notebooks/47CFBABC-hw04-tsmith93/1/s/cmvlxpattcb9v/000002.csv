@@ -1,0 +1,6 @@
+"0","(ijvl <- inner_join(vocalists, labels)) %>% 
+#pipe into kable function for a nice clean look!  
+ kable()
+"
+"2","Joining, by = ""Label""
+"
