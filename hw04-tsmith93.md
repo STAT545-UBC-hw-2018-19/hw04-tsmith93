@@ -522,3 +522,8 @@ merge(labels, vocalists) %>%
 | Republic |          1995| Florence | female | rock  |
 
 Data from Robert, who is associated with Atlantic, and Arista are lost, as those labels are not common for both dataframes.
+
+Conclusion
+----------
+
+Very fun exercises there! I hope you learnt something from this assignment :)
