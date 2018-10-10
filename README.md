@@ -1,4 +1,4 @@
-#Directory for hw04-tsmith93 
+# Directory for hw04-tsmith93 
 
 You can use this README file to easily explore the contents of my hw04 repository.
 
@@ -8,4 +8,4 @@ Contents include
 3. The [.RProj](https://github.com/STAT545-UBC-students/hw04-tsmith93/blob/master/hw04-tsmith93.Rproj) file for my assignment
 4. A [folder](https://github.com/STAT545-UBC-students/hw04-tsmith93/tree/master/hw04-tsmith93_files/figure-markdown_github) containing plots 
 
-Enjoy ::):
+Enjoy :)
